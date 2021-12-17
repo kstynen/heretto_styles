@@ -3,14 +3,14 @@
 .topictitle1 * {
   font-size: 16pt;
   /*color: #e3c03e;*/
-  color: #666;
+  color: #000;
 
 }
 
 .topictitle2,
 .topictitle2 * {
        font-size: 16pt;
-       color: #575756;
+       color: #333;
 }
 
 .topictitle3,
